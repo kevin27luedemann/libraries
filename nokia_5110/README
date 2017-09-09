@@ -1,0 +1,6 @@
+This library is mostly taken from Adafuit.
+For more information and even more libraries refer to their github page:
+https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library
+I don't own their work, so this is an adaptation for Makefiles and avr-gcc without arduino.
+
+This program uses SPI and the INPUT and OUTPUT libraries.
